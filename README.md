@@ -1,3 +1,4 @@
 # web-dev
 web dev is about webpages<br>
-auther = akshada ambatkar
+author = akshada ambatkar
+https://github.com/AkshadaAmbatkar/web-dev/edit/main/README.md
